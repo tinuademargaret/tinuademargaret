@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## :writing_hand: Latest posts
 
-- [Everything in python is an object](https://github.com/tinumide/bits-of-python)
+- [Everything in python is an object](https://github.com/tinumide/bits-of-python/blob/main/everything_in_python_is_an_object.md)
 
 ## 📖 &nbsp; My favorite 2022 reads
 - [ ] [The Ministry for The future](https://www.goodreads.com/book/show/50998056-the-ministry-for-the-future)
