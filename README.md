@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 💡 &nbsp;I'm a Software and AI Research Engineer.\
 🎓 &nbsp;I'm currently a postgraduate student studying Artificial Intelligence at [Heriot-Watt University](https://www.hw.ac.uk/).\
-🛠 &nbsp;I have previously worked for [Atom Learning](https://atomlearning.co.uk/)and [Smartace](https://smartace.ng/).\
+🛠 &nbsp;I have previously worked at [Atom Learning](https://atomlearning.co.uk/) and [Smartace](https://smartace.ng/).\
 :writing_hand: &nbsp; I write about [Python](https://github.com/tinumide/bits-of-python).\
 :brain: &nbsp; The brain and human mind fascinates me and I look forward to contributing immensely to the field of computational neuroscience especially to enhance the lives of people with neurological disorders and disabilities.\
 🌱 &nbsp; I struggle a lot with absolute truths.\
