@@ -21,25 +21,32 @@ Here are some ideas to get you started:
 
 ## :woman_technologist: &nbsp;About me
 
-💡 &nbsp;I'm a Software and AI Research Engineer.\
+💡 &nbsp;I'm a Software and a budding AI Research Engineer.\
 🎓 &nbsp;I'm currently a postgraduate student studying Artificial Intelligence at [Heriot-Watt University](https://www.hw.ac.uk/).\
 🛠 &nbsp;I have previously worked at [Atom Learning](https://atomlearning.co.uk/), [Smartace](https://smartace.ng/) and [InventOne](https://inventone.ng/#/).\
-:writing_hand: &nbsp; I write about [Python](https://github.com/tinumide/bits-of-python).\
+🔭 &nbsp;I’m currently working on generation of programming word problems using large language models\
+:infinity: &nbsp; I'm the current organizer of [papers we love](https://www.linkedin.com/company/papers-we-love-edinburgh) Edinburgh chapter.\
+:writing_hand: &nbsp; Sometimes I make notes [here](https://github.com/tinumide/tinusnotes).\
 :brain: &nbsp; The brain and human mind fascinates me and I look forward to contributing immensely to the field of computational neuroscience especially to enhance the lives of people with neurological disorders and disabilities.\
 🌱 &nbsp; I struggle a lot with absolute truths.\
-🌱 &nbsp; Lastly, I say a lot of rubbish and I'm quite comfortable with it :)
+🌱 &nbsp; Lastly, I say a lot of rubbish, don't take me too serious :)
 
 
-## :writing_hand: Latest posts
+## :writing_hand: Some of my notes
 
 - [Everything in python is an object](https://github.com/tinumide/bits-of-python/blob/main/everything_in_python_is_an_object.md)
 - [Subtle Immutability](https://github.com/tinumide/bits-of-python/blob/main/mutability_and_immutability.md)
+- [Overview of Language of Models 1](https://github.com/tinumide/tinusnotes/blob/main/language_models_overview_1.md)
+- [Overview of Language of Models 2](https://github.com/tinumide/tinusnotes/blob/main/language_models_overview-2.md)
+- [Not any less optimistic](https://github.com/tinumide/tinusnotes/blob/main/not_any_less_optimistic.md)
 
-## 📖 &nbsp; My favorite 2022 reads
+## 📖 &nbsp; Some of my favorite reads
 - [ ] [The Ministry for The future](https://www.goodreads.com/book/show/50998056-the-ministry-for-the-future)
 - [ ] [The Road to Conscious Machines](https://www.goodreads.com/en/book/show/52842983)
 - [ ] [Taking on Gravity](https://www.goodreads.com/en/book/show/42277869)
 - [ ] [How the World Really Works](https://www.goodreads.com/book/show/56587388-how-the-world-really-works)
+
+If you've read any of these books and would love to chat about it, don't hesistate to hit me up :smiley: 
 
 ## 🔧 Technologies and Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=colorB)
