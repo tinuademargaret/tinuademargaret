@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 🔭 &nbsp;I’m currently working on generation of programming word problems using large language models\
 :infinity: &nbsp; I'm the current organizer of [papers we love](https://www.linkedin.com/company/papers-we-love-edinburgh) Edinburgh chapter.\
 :writing_hand: &nbsp; Sometimes I make notes [here](https://github.com/tinumide/tinusnotes).\
-:brain: &nbsp; The brain and human mind fascinates me and I look forward to contributing immensely to the field of computational neuroscience especially to enhance the lives of people with neurological disorders and disabilities.\
-🌱 &nbsp; I struggle a lot with absolute truths.\
-🌱 &nbsp; Lastly, I say a lot of rubbish, don't take me too serious :)
+🌱 &nbsp; Lastly, I say a lot of rubbish, don't take me too seriously :)
 
 
 ## :writing_hand: Some of my notes
